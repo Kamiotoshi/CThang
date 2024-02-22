@@ -1,7 +1,0 @@
-E:\c#\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-E:\c#\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-E:\c#\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-E:\c#\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-E:\c#\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-E:\c#\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-E:\c#\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
