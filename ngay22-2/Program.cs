@@ -51,18 +51,15 @@ namespace ConsoleApp1
             }
             else if (Quantity > threshold1 && Quantity <= threshold2)
             {
-                newUnitPrice = 1200;
-                return UnitPrice * threshold1 + newUnitPrice * (Quantity - threshold1);
+                return Quantity * 1200;
             }
             else if (Quantity > threshold2 && Quantity <= threshold3)
             {
-                newUnitPrice = 1500;
-                return UnitPrice * threshold1 + UnitPrice*threshold2  + newUnitPrice * (Quantity - threshold2);
+               return Quantity * 1500;
             }
             else
             {
-                newUnitPrice = 2000;
-                return UnitPrice * threshold1 + UnitPrice * threshold2 + UnitPrice*threshold3 + newUnitPrice * (Quantity - threshold3);
+                return Quantity * 2000;
             }
         }
     }
