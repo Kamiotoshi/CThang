@@ -1,0 +1,7 @@
+E:\c#\repos\ConsoleApp1\GeometryExample\bin\Debug\GeometryExample.exe.config
+E:\c#\repos\ConsoleApp1\GeometryExample\bin\Debug\GeometryExample.exe
+E:\c#\repos\ConsoleApp1\GeometryExample\bin\Debug\GeometryExample.pdb
+E:\c#\repos\ConsoleApp1\GeometryExample\obj\Debug\GeometryExample.csproj.AssemblyReference.cache
+E:\c#\repos\ConsoleApp1\GeometryExample\obj\Debug\GeometryExample.csproj.CoreCompileInputs.cache
+E:\c#\repos\ConsoleApp1\GeometryExample\obj\Debug\GeometryExample.exe
+E:\c#\repos\ConsoleApp1\GeometryExample\obj\Debug\GeometryExample.pdb
